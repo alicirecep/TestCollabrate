@@ -8,6 +8,8 @@ public class Ortak {
 
         System.out.println("cözmek bizim isimiz");
 
+        System.out.println("Houston sesim geliyor mu");
+
 
     }
 }
